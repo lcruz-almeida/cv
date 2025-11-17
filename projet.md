@@ -18,3 +18,5 @@ Résultat attendu :
 Une page web interactive où le livre s’ouvre automatiquement et les particules se déplacent de manière fluide.
 Une animation simple mais élégante et poétique, facile à comprendre et à visualiser.
 Une démonstration claire de l’utilisation combinée de HTML, CSS et JavaScript pour des animations.
+
+https://lcruz-almeida.github.io/projet-1/
