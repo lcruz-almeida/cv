@@ -20,3 +20,5 @@ Une animation simple mais élégante et poétique, facile à comprendre et à vi
 Une démonstration claire de l’utilisation combinée de HTML, CSS et JavaScript pour des animations.
 
 https://lcruz-almeida.github.io/projet-1/
+
+https://lcruz-almeida.github.io/projet-2/
