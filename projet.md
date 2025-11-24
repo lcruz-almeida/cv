@@ -19,6 +19,9 @@ Une page web interactive où le livre s’ouvre automatiquement et les particule
 Une animation simple mais élégante et poétique, facile à comprendre et à visualiser.
 Une démonstration claire de l’utilisation combinée de HTML, CSS et JavaScript pour des animations.
 
+https://lcruz-almeida.github.io/projet-5/
+
+https://lcruz-almeida.github.io/projet-4/
+
 https://lcruz-almeida.github.io/projet-3/
 
-https://lcruz-almeida.github.io/projet-2/
