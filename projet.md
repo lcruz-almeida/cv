@@ -9,15 +9,10 @@ L’objectif principal de cette première version est de créer un livre interac
 Fonctionnalités principales :
 
 Le livre a une couverture gauche, une couverture droite et deux pages.
-
 Le livre s’ouvre automatiquement après un court délai grâce à JavaScript.
-
 L’utilisateur peut ouvrir ou fermer le livre avec un clic ou la touche Entrée/Espace.
-
 Les animations CSS font tourner les couvertures et les pages.
-
 Des particules magiques apparaissent depuis le livre, avec des couleurs et mouvements variés.
-
 Un double-clic crée un nuage de particules plus grand pour accentuer l’effet magique.
 
 
@@ -25,9 +20,7 @@ Un double-clic crée un nuage de particules plus grand pour accentuer l’effet 
 Technologies utilisées :
 
 HTML : structure du livre et du canvas pour les particules.
-
 CSS : style visuel (couleurs, ombres, perspective 3D) et animations des couvertures et pages.
-
 JavaScript : gestion de l’ouverture/fermeture du livre, génération et animation des particules, gestion des interactions utilisateur et optimisation de la boucle d’animation.
 
 
