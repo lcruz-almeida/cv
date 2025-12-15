@@ -23,7 +23,7 @@ JavaScript : Gestion de l’ouverture/fermeture du livre. Création dynamique de
 
 
 
-Résultat attendu et limites :
+Résultat attendu :
 
 Particules magiques, flammes, lumière et lettres animées apparaissant dynamiquement au clic.
 Changement d’ambiance jour/nuit disponible à tout moment.
