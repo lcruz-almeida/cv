@@ -25,10 +25,15 @@ JavaScript : gestion de l’ouverture/fermeture du livre, génération et animat
 
 
 
-Résultat attendu et limites :
+Résultat attendu :
 
 Le livre s’ouvre automatiquement et diffuse des particules, créant un effet poétique et immersif.
 Cette version pose les bases pour ajouter de futures fonctionnalités interactives (comme des boutons pour divers effets magiques).
+
+
+
+Limites :
+
 Actuellement, seulement deux pages sont présentes, ce qui restreint l'effet de feuilletage.
 Les particules peuvent s'accumuler en grand nombre, ce qui pourrait ralentir le navigateur.
 Pas de contrôle pour réinitialiser ou arrêter les animations.
