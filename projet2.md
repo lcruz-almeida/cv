@@ -23,12 +23,17 @@ JavaScript : ouverture/fermeture, création de particules, gestion du thème et 
 
 
 
-Résultat attendu et limites :
+Résultat attendu :
 
 Livre interactif avec effet de feuilletage et ambiance immersive.
 Particules magiques dynamiques et colorées qui flottent vers le haut.
 Possibilité de changer l’ambiance (jour/nuit).
 Sons synchronisés aux pages pour plus de réalisme.
+
+
+
+Limites :
+
 Les particules sont toutes créées dynamiquement, ce qui peut affecter les performances si l’utilisateur laisse le flux continuer longtemps.
 Pas encore de boutons pour déclencher des sorts ou effets magiques supplémentaires.
 Pas de contrôle pour arrêter complètement le livre ou les sons.
