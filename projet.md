@@ -1,20 +1,25 @@
 Projet : Le livre magique 
 
-Objectif :
-Créer une animation web simple et visuelle représentant un livre ouvert.
-Le livre s’ouvre tout seul et des petites particules ou étincelles sortent de ses pages, pour donner un effet “magique”.
+Objectifs :
+L’objectif principal de cette première version est de créer un livre interactif et magique. Le but est d’offrir une expérience immersive où le livre s’ouvre automatiquement ou via un clic, et diffuse des particules scintillantes pour un effet “magique”. Les futures versions incluront des boutons pour déclencher différents effets magiques (comme du feu, de la lumière, du vent, ou des lettres qui apparaissent).
+
+Fonctionnalités principales :
+Le livre a une couverture gauche, une couverture droite et deux pages, toutes créées avec des <div>.
+Le livre s’ouvre automatiquement après un court délai grâce à JavaScript.
+L’utilisateur peut ouvrir ou fermer le livre avec un clic ou la touche Entrée/Espace.
+Les animations CSS font tourner les couvertures et les pages.
+Des particules magiques apparaissent depuis le livre, avec des couleurs et mouvements variés.
+Un double-clic crée un nuage de particules plus grand pour accentuer l’effet magique.
 
 Technologies utilisées :
-HTML : créer la structure du livre, chaque page étant un élément <div>.
-CSS : donner un style au livre (couleur, ombre, perspective 3D), définir la taille et la position des pages et des particules.
-JavaScript / Anime.js : animer l’ouverture du livre et le mouvement des particules. Gérer la durée, les rotations et les déplacements pour un rendu fluide.
+HTML : structure du livre et du canvas pour les particules.
+CSS : style visuel (couleurs, ombres, perspective 3D) et animations des couvertures et pages.
+JavaScript : gestion de l’ouverture/fermeture du livre, génération et animation des particules, gestion des interactions utilisateur et optimisation de la boucle d’animation.
 
-Description du projet :
-Le livre s’ouvre progressivement avec une rotation douce.
-Des particules animées sortent du livre pour un effet “magique”.
-Les animations sont gérées avec Anime.js pour simplifier le code.
-
-Résultat attendu :
-Une page web interactive où le livre s’ouvre automatiquement et les particules se déplacent de manière fluide.
-Une animation simple mais élégante et poétique, facile à comprendre et à visualiser.
-Une démonstration claire de l’utilisation combinée de HTML, CSS et JavaScript pour des animations.
+Résultat attendu et limites :
+Le livre s’ouvre automatiquement et diffuse des particules, créant un effet poétique et immersif.
+Cette version pose les bases pour ajouter de futures fonctionnalités interactives (comme des boutons pour divers effets magiques).
+Actuellement, seulement deux pages sont présentes, ce qui restreint l'effet de feuilletage.
+Les particules peuvent s'accumuler en grand nombre, ce qui pourrait ralentir le navigateur.
+Pas de contrôle pour réinitialiser ou arrêter les animations.
+Aucun effet sonore ou autre effet supplémentaire n'est encore implémenté.
