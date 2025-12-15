@@ -23,10 +23,15 @@ JavaScript : gestion simple de l’ouverture/fermeture du livre via clic.
 
 
 
-Résultat attendu et limites :
+Résultat attendu :
 
 Le livre a un nouveau look sombre et mystique.
 Les particules apparaissent de manière fluide et variée, donnant un effet magique et immersif.
+
+
+
+Limites :
+
 Pas encore de boutons supplémentaires pour d’autres effets magiques.
 Les animations sont toutes contrôlées par CSS, donc aucune logique avancée ni interaction complexe.
 Aucun son ni synchronisation avec les pages.
