@@ -4,11 +4,17 @@ Objectifs :
 L’objectif principal de cette première version est de créer un livre interactif et magique. Le but est d’offrir une expérience immersive où le livre s’ouvre automatiquement ou via un clic, et diffuse des particules scintillantes pour un effet “magique”. Les futures versions incluront des boutons pour déclencher différents effets magiques (comme du feu, de la lumière, du vent, ou des lettres qui apparaissent).
 
 Fonctionnalités principales :
+
 Le livre a une couverture gauche, une couverture droite et deux pages.
+
 Le livre s’ouvre automatiquement après un court délai grâce à JavaScript.
+
 L’utilisateur peut ouvrir ou fermer le livre avec un clic ou la touche Entrée/Espace.
+
 Les animations CSS font tourner les couvertures et les pages.
+
 Des particules magiques apparaissent depuis le livre, avec des couleurs et mouvements variés.
+
 Un double-clic crée un nuage de particules plus grand pour accentuer l’effet magique.
 
 Technologies utilisées :
